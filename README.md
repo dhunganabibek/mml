@@ -1,9 +1,15 @@
-# mml
+# MML: Mathematical Foundations for Machine Learning
 
-math for machine learning
+Welcome to **MML** – your comprehensive resource for the mathematical foundations essential for mastering machine learning.
 
-These repo will have important stuff about mathematical foundation for machine learning.
+This repository contains curated notes, explanations, and examples covering the core mathematical concepts required for a deep understanding of machine learning algorithms and theory.
 
-1. Linear Algebra
-2. Probability and Statistics
-3. Calculus
+## Contents
+
+1. **Linear Algebra**
+2. **Probability and Statistics**
+3. **Calculus**
+
+Each section provides theoretical insights, practical applications, and examples relevant to machine learning.
+
+---
